@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "ChatPractice\ServerApp.csproj", "{96D3648A-0494-41DA-99AE-1AA965ECADFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{50E3E46B-E6F6-4BE6-B2D5-5F3EEF3009BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D3648A-0494-41DA-99AE-1AA965ECADFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D3648A-0494-41DA-99AE-1AA965ECADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D3648A-0494-41DA-99AE-1AA965ECADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D3648A-0494-41DA-99AE-1AA965ECADFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E3E46B-E6F6-4BE6-B2D5-5F3EEF3009BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E3E46B-E6F6-4BE6-B2D5-5F3EEF3009BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E3E46B-E6F6-4BE6-B2D5-5F3EEF3009BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E3E46B-E6F6-4BE6-B2D5-5F3EEF3009BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
